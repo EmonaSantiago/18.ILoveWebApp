@@ -30,14 +30,12 @@
           placeholder="Your E-mail.."
         />
   
-        <label for="country">Deze week sessie</label>
+        <label for="country">Aanmelden voor deze sessie</label>
         <select id="country" name="country">
-          <option value="sessie">DLC Ontwerp fase</option>
-          <option value="sessie">Adobe illustrator Digital design</option>
-          <option value="sessie">Html/Css skills</option>
+          <option value="sessie">Focus Toegankelijkheid</option>
+          <option value="sessie">Javascript</option>
+          <option value="sessie">Html/Css</option>
           <option value="sessie">Project Board opzetten</option>
-          <option value="sessie">3D skills</option>
-          <option value="sessie">FDND Founder</option>
         </select>
   
         <label for="vragen">Vragen?</label>

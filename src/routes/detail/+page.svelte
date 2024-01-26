@@ -1,12 +1,11 @@
 <section id="Detail">
     <div class="container">
       <div class="text">
-        <h1>DLC Ontwerp fase</h1>
-        <h3>Emona Santiago</h3>
-        <p class="datum">20/03/23</p>
+        <h1>Focus op Toegankelijkheid</h1>
+        <h3>Fenna de Wilde</h3>
+        <p class="datum">19/01/24</p>
         <p>
-          Emona Santiago is graag bezig in het ontwerpfase. Ze deelt graag haar
-          manier van werken! Volg deze sessie voor tips&tops en nieuwe technieken.
+          In de digitale wereld krijgen esthetiek en vloeiende animaties vaak alle aandacht. Tock is er een cruciaal aspect dat vaak over hte hoofd wordt gezien maar wel onze volle aandacht verdient - Toegankelijkheid.
         </p>
         <p class="locatie">
           The Bell (BELL) Sarphatistraat 370 1018 GW Amsterdam
@@ -15,7 +14,7 @@
         <a href="/aanmelden" class="button2">Aanmelden</a>
       </div>
       <div class="image">
-        <img src="/images/Ontwerpen.png" alt="Afbeelding" />
+        <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
       </div>
     </div>
   </section>
@@ -79,6 +78,9 @@
     }
   
     @media (max-width: 600px) {
+      h1 {
+        font-size: 25px;
+      }
       .container {
         flex-direction: column;
       }
