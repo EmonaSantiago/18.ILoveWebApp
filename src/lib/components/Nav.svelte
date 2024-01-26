@@ -1,6 +1,6 @@
 <header class="nav-header">
     <a href="/"><img src="/images/fdndlogo.png" alt="logo" /></a>
-    <a href="/Over-ons" class="nav-link2">FDND.nl</a>
+    <a href="https://fdnd.nl/" class="nav-link2">FDND.nl</a>
     <a href="/aanmelden" class="nav-link1">Aanmelden</a>
   </header>
   
