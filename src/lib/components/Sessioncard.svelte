@@ -1,59 +1,71 @@
 <div class="container">
     <div class="item">
-      <h2>20/03/23</h2>
-      <img src="/images/Ontwerpen.png" alt="Afbeelding" />
-      <h1>DLC Ontwerp fase</h1>
-      <p>Emona Santiago</p>
+      <h2>19/01/24</h2>
+      <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
+      <h1>Focus op Toegankelijkheid</h1>
+      <p>Fenna De Wilde</p>
       <p>
-        Heb jij moeite met het DLC ontwerpfase? Emona neemt je mee in het ontwerp
-        fase.
+       
+In deze We Love Web-sessie zal Fenna, een creatieve front-end ontwikkelaar, de leiding nemen en de nadruk leggen op toegankelijkheid.
       </p>
       <a href="/detail" class="button">Lees meer...</a>
     </div>
-  
     <div class="item">
-      <h2>21/03/23</h2>
-      <img src="/images/AdobeIllustrator.png" alt="Afbeelding" />
-      <h1>Adobe illustrator Digital design</h1>
-      <p>Daphne Zwuup</p>
-      <p>Digital designen in Adobe illustrator met Daphne.</p>
+      <h2>19/01/24</h2>
+      <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
+      <h1>Focus op Toegankelijkheid</h1>
+      <p>Fenna De Wilde</p>
+      <p>
+       
+In deze We Love Web-sessie zal Fenna, een creatieve front-end ontwikkelaar, de leiding nemen en de nadruk leggen op toegankelijkheid.
+      </p>
       <a href="/detail" class="button">Lees meer...</a>
     </div>
     <div class="item">
-      <h2>22/03/2023</h2>
-      <img src="/images/Code.png" alt="Afbeelding" />
-      <h1>Html/Css skills</h1>
-      <p>Shauri Maigua</p>
-      <p>Heb jij moeite met HTML/CSS? Shauri deelt graag tips!</p>
+      <h2>19/01/24</h2>
+      <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
+      <h1>Focus op Toegankelijkheid</h1>
+      <p>Fenna De Wilde</p>
+      <p>
+       
+In deze We Love Web-sessie zal Fenna, een creatieve front-end ontwikkelaar, de leiding nemen en de nadruk leggen op toegankelijkheid.
+      </p>
       <a href="/detail" class="button">Lees meer...</a>
     </div>
-  
     <div class="item">
-      <h2>23/03/2023</h2>
-      <img src="/images/projectboard.png" alt="Afbeelding" />
-      <h1>Project Board opzetten</h1>
-      <p>Boudewijn Bout</p>
-      <p>De perfecte opzet met het Github project board!</p>
+      <h2>19/01/24</h2>
+      <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
+      <h1>Focus op Toegankelijkheid</h1>
+      <p>Fenna De Wilde</p>
+      <p>
+       
+In deze We Love Web-sessie zal Fenna, een creatieve front-end ontwikkelaar, de leiding nemen en de nadruk leggen op toegankelijkheid.
+      </p>
       <a href="/detail" class="button">Lees meer...</a>
     </div>
-  
     <div class="item">
-      <h2>24/03/2023</h2>
-      <img src="/images/3D.png" alt="Afbeelding" />
-      <h1>3D skills</h1>
-      <p>Daan Korver</p>
-      <p>Intresse in 3D ontwerpen? Daan deelt graag zijn skills!</p>
+      <h2>19/01/24</h2>
+      <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
+      <h1>Focus op Toegankelijkheid</h1>
+      <p>Fenna De Wilde</p>
+      <p>
+       
+In deze We Love Web-sessie zal Fenna, een creatieve front-end ontwikkelaar, de leiding nemen en de nadruk leggen op toegankelijkheid.
+      </p>
       <a href="/detail" class="button">Lees meer...</a>
     </div>
-  
     <div class="item">
-      <h2>25/03/23</h2>
-      <img src="/images/FDND.png" alt="Afbeelding" />
-      <h1>FDND Founder</h1>
-      <p>Justin Lung</p>
-      <p>FDND Founder Justin deelt zijn ervaring bij FDND.</p>
+      <h2>19/01/24</h2>
+      <img src="/images/WeLoveWeb.png" alt="Afbeelding" />
+      <h1>Focus op Toegankelijkheid</h1>
+      <p>Fenna De Wilde</p>
+      <p>
+       
+In deze We Love Web-sessie zal Fenna, een creatieve front-end ontwikkelaar, de leiding nemen en de nadruk leggen op toegankelijkheid.
+      </p>
       <a href="/detail" class="button">Lees meer...</a>
     </div>
+
   </div>
   
   <style>
@@ -114,7 +126,7 @@
   
     @media screen and (max-width: 600px) {
       h1 {
-        font-size: 5vw;
+        font-size: 15px;
       }
   
       .container .item {
