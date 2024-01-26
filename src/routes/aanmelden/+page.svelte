@@ -32,7 +32,7 @@
   
         <label for="country">Aanmelden voor deze sessie</label>
         <select id="country" name="country">
-          <option value="sessie">Focus Toegankelijkheid</option>
+          <option value="sessie">Focus op Toegankelijkheid</option>
           <option value="sessie">Javascript</option>
           <option value="sessie">Html/Css</option>
           <option value="sessie">Project Board opzetten</option>
